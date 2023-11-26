@@ -9,4 +9,12 @@ https://github.com/dperconti/MOOC-MBA
 ---
 # Reference
 
-https://www.freecodecamp.org/news/how-to-make-a-mooc-mba-using-free-courses-from-top-10-business-schools-545113e506d9/      
+https://www.freecodecamp.org/news/how-to-make-a-mooc-mba-using-free-courses-from-top-10-business-schools-545113e506d9/        
+
+How free online classes can prepare you for an MBA            
+https://fortune.com/education/articles/how-free-online-classes-can-prepare-you-for-an-mba/       
+
+
+MBA Alternatives: Business Fundamental MOOCs (DIY MBA)    
+[https://fortune.com/education/articles/how-free-online-classes-can-prepare-you-for-an-mba/  ](https://www.bschools.org/blog/mba-alternatives-online-mba-diy)       
+
