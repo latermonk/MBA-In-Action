@@ -1,7 +1,7 @@
 #  MAB Courses
 ## wharton-business-foundations
 https://www.coursera.org/specializations/wharton-business-foundations  
-### 01 introdction to marketing       
+### 01 Introduction to marketing       
 https://www.coursera.org/learn/wharton-marketing        
 
 ## Northwestern  organizational-leadership   
