@@ -7,7 +7,8 @@ https://www.coursera.org/learn/wharton-marketing
 ## Northwestern  organizational-leadership   
 https://www.coursera.org/specializations/organizational-leadership          
 
-
+### High Performance Collaboration: Leadership, Teamwork, and Negotiation 
+[https://www.coursera.org/learn/leadership-collaboration?specialization=organizational-leadership](https://www.coursera.org/learn/leadership-collaboration)         
 
 
 
@@ -21,7 +22,7 @@ https://www.coursera.org/specializations/organizational-leadership
 MBA-In-Action
    
 
-https://github.com/benedictusdps/MOOC-MBA                
+https://git hub.com/benedictusdps/MOOC-MBA                
 https://github.com/assya92/MOOC-DEGREES                 
 https://github.com/dperconti/MOOC-MBA             
 
