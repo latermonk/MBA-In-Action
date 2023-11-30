@@ -22,7 +22,7 @@ https://www.coursera.org/specializations/organizational-leadership
 MBA-In-Action
    
 
-https://git hub.com/benedictusdps/MOOC-MBA                
+https://github.com/benedictusdps/MOOC-MBA                
 https://github.com/assya92/MOOC-DEGREES                 
 https://github.com/dperconti/MOOC-MBA             
 
