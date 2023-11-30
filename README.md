@@ -1,5 +1,5 @@
 #  MAB Courses
-## wharton-business-foundations
+## Wharton School -  business foundations
 https://www.coursera.org/specializations/wharton-business-foundations  
 ### 01 Introduction to marketing       
 https://www.coursera.org/learn/wharton-marketing        
@@ -8,7 +8,7 @@ https://www.coursera.org/learn/wharton-marketing
 
 
 
-## Northwestern  organizational-leadership   
+##  Kellogg - Organizational-leadership   [Northwestern]
 https://www.coursera.org/specializations/organizational-leadership          
 
 ### 01 High Performance Collaboration: Leadership, Teamwork, and Negotiation 
