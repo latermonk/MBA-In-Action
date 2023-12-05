@@ -6,8 +6,12 @@ https://www.hbs.edu/mba/academic-experience/curriculum/Pages/required-curriculum
 https://www.hbs.edu/mba/academic-experience/curriculum/Pages/elective-curriculum.aspx      
 
 ## WHARTON   
+https://mba.wharton.upenn.edu/mba-curriculum/     
 
 ## GSB
+https://www.gsb.stanford.edu/programs/mba/academic-experience/curriculum    
+https://www.gsb.stanford.edu/programs/mba/academic-experience/curriculum/first-year   
+https://www.gsb.stanford.edu/programs/mba/academic-experience/curriculum/second-year     
 
 
 --
