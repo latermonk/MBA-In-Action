@@ -11,6 +11,8 @@
 
 * 领导力
 
+  * Strategic Leadership: Impact, Change, and Decision-Making Specialization
+    * https://www.coursera.org/specializations/strategic-leadership-impact-change-decision-making   
   * EQ
     * https://www.coursera.org/learn/emotional-intelligence-leadership/        
     * 
