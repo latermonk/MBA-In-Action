@@ -9,13 +9,17 @@
 
 * 营销
 
+  * Introduction to Marketing
+    * https://www.coursera.org/learn/wharton-marketing   
+
 * 领导力
 
   * Strategic Leadership: Impact, Change, and Decision-Making Specialization
     * https://www.coursera.org/specializations/strategic-leadership-impact-change-decision-making   
-  * EQ
-    * https://www.coursera.org/learn/emotional-intelligence-leadership/        
-    * 
+  * Inspired Leadership Specialization
+    * https://www.coursera.org/specializations/inspired-leadership   
+  * International Leadership and Organizational Behavio
+    * https://www.coursera.org/learn/organizational-behavior     
 
 * 微观经济学
 
@@ -24,6 +28,10 @@
 * 财务会计
 
   * 财务会计导论及进阶 - 沃顿商学院
+    * Introduction to Financial Accounting
+      * https://www.coursera.org/learn/wharton-accounting
+    * More Introduction to Financial Accounting
+      * https://www.coursera.org/learn/wharton-financial-accounting
 
 * 成功学
 
