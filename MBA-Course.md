@@ -48,6 +48,12 @@
 
 * 微观经济学
 
+  * **Microeconomics: The Power of Markets**
+    * https://www.coursera.org/learn/microeconomics-part1
+
+  * **Microeconomics: When Markets Fail**
+    * https://www.coursera.org/learn/microeconomics-part2
+
 * 宏观经济学
 
 
