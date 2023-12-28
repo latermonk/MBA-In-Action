@@ -1,9 +1,18 @@
 * 谈判
 
+  * High Performance Collaboration - Negotiation
+
+    * https://www.coursera.org/learn/leadership-collaboration/home/week/3
+
+  * Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator
+
+    * https://www.coursera.org/learn/negotiation
+
   * Successful Negotiation: Essential Strategies and Skills
 
-    * https://www.coursera.org/learn/negotiation-skills/           
-    * 
+    * https://www.coursera.org/learn/negotiation-skills/
+
+    
 
     ​	 
 
