@@ -1,16 +1,30 @@
 * 谈判
 
-  https://www.coursera.org/learn/negotiation-skills/            
+  * Successful Negotiation: Essential Strategies and Skills
+
+    * https://www.coursera.org/learn/negotiation-skills/           
+    * 
+
+    ​	 
 
 * 战略
 
   * Business Strategy Specialization
-    * https://www.coursera.org/specializations/business-strategy           
+    * https://www.coursera.org/specializations/business-strategy   
+    *   
+    
+    
 
 * 营销
 
   * Introduction to Marketing
     * https://www.coursera.org/learn/wharton-marketing   
+    
+  * Marketing Analytics  -  va-darden
+    
+    * https://www.coursera.org/learn/uva-darden-market-analytics      
+    
+    
 
 * 领导力
 
@@ -20,10 +34,14 @@
     * https://www.coursera.org/specializations/inspired-leadership   
   * International Leadership and Organizational Behavio
     * https://www.coursera.org/learn/organizational-behavior     
+    
+    
 
 * 微观经济学
 
 * 宏观经济学
+
+
 
 * 财务会计
 
@@ -32,6 +50,8 @@
       * https://www.coursera.org/learn/wharton-accounting
     * More Introduction to Financial Accounting
       * https://www.coursera.org/learn/wharton-financial-accounting
+      
+      
 
 * 成功学
 
