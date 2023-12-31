@@ -11,6 +11,7 @@
 - [ ] 影响力
     - [ ] https://www.coursera.org/learn/influencing-people
 - [ ] 营销
+    - [ ] https://www.coursera.org/learn/wharton-contagious-viral-marketing/
 
 
 
