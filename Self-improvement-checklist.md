@@ -3,6 +3,15 @@
 
 - [ ] 谈判
 - [ ] EQ
+
+    - [ ] Emotional Intelligence: Cultivating Immensely Human Interactions
+
+        - [ ] https://www.coursera.org/learn/emotional-intelligence-cultivating-immensely-human-interactions    
+
+    - [ ] Emotional and Social Intelligence
+
+        - [ ] https://www.coursera.org/learn/emotional-and-social-intelligence    
+
 - [ ] 领导力
 - [ ] 个人品牌
     - [ ] https://www.coursera.org/learn/personal-branding-success
@@ -76,4 +85,16 @@
 - [ ] Dynamic Public Speaking Specialization
     - [ ] https://www.coursera.org/specializations/public-speaking 
     - [ ] 
+
+---
+
+
+
+#  Specialization
+
+Professional Skills for the Workplace        
+
+https://www.coursera.org/specializations/professional-skills-for-the-workplace        
+
+
 
