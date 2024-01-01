@@ -67,12 +67,6 @@
     - [ ] https://www.coursera.org/specializations/managementconsulting
 
 
-- [ ] 7 Problem-Solving Skills
-    - [ ] https://www.coursera.org/articles/problem-solving-skills
-    - [ ] 
-    - [ ] 
-
-
 
 - [ ] Futures Thinking Specialization
     - [ ] https://www.coursera.org/specializations/futures-thinking#courses 
@@ -95,6 +89,20 @@
 Professional Skills for the Workplace        
 
 https://www.coursera.org/specializations/professional-skills-for-the-workplace        
+
+
+
+
+
+
+
+---
+
+# Reference:
+
+7 Problem-Solving Skills
+
+- [ ] https://www.coursera.org/articles/problem-solving-skills
 
 
 
