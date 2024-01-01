@@ -1,6 +1,20 @@
 内向人要学的东西:
 
 
+
+
+
+
+
+
+
+
+- [ ] 成功学
+
+    - [ ] The Science of Success: What Researchers Know that You Should Know - 成功的科学
+
+        - [ ] https://www.coursera.org/learn/success   
+
 - [ ] 谈判
 - [ ] EQ
 
@@ -13,6 +27,9 @@
         - [ ] https://www.coursera.org/learn/emotional-and-social-intelligence    
 
 - [ ] 领导力
+
+    - [ ] 
+
 - [ ] 个人品牌
     - [ ] https://www.coursera.org/learn/personal-branding-success
     - [ ] https://www.coursera.org/specializations/branding-the-creative-journey
@@ -26,6 +43,9 @@
 
 
 - [ ] critical thinking
+
+    - [ ] 
+
 - [ ] Grow mindset
     - [ ] https://www.coursera.org/learn/growth-mindset
 - [ ] 积极心理学
