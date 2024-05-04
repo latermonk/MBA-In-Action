@@ -28,7 +28,19 @@ https://www.coursera.org/learn/speaking-listening-capstone
 
 ---
 
+#  UCI - Learn English: Writing Effectively with Complex Sentences Specialization   
 
+https://www.coursera.org/specializations/learn-english-writing-grammar-complex-sentences#courses       
+
+
+
+
+
+L1:  [Enhance your Writing with Adverb Clauses](https://www.coursera.org/learn/english-writing-grammar-adverb-clauses?specialization=learn-english-writing-grammar-complex-sentences)  副词从句  
+
+L2: [Enhance your Writing with Adjective Clauses 用形容词从句增强你的写作](https://www.coursera.org/learn/english-writing-grammar-adjective-clauses?specialization=learn-english-writing-grammar-complex-sentences)  
+
+L3:  [Enhance your Writing with Noun Clauses](https://www.coursera.org/learn/english-writing-grammar-noun-clauses?specialization=learn-english-writing-grammar-complex-sentences)   名词从句
 
 
 
