@@ -12,6 +12,28 @@ https://www.coursera.org/specializations/speaklistenenglish
 
 
 
+L1:   Academic Listening and Note-Taking  
+
+https://www.coursera.org/learn/note-taking       
+
+L2:  Presentations: Speaking so that People Listen     
+
+https://www.coursera.org/specializations/speaklistenenglish       
+
+L4: Advanced Speaking and Listening   
+
+https://www.coursera.org/learn/speaking-listening-capstone      
+
+
+
+---
+
+
+
+
+
+
+
 
 
 # gatech  -  Improve Your English Communication Skills  
